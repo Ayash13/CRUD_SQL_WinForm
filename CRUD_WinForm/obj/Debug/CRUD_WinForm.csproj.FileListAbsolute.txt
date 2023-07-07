@@ -1,0 +1,11 @@
+E:\CODING\CRUD_WinForm\CRUD_WinForm\bin\Debug\CRUD_WinForm.exe.config
+E:\CODING\CRUD_WinForm\CRUD_WinForm\bin\Debug\CRUD_WinForm.exe
+E:\CODING\CRUD_WinForm\CRUD_WinForm\bin\Debug\CRUD_WinForm.pdb
+E:\CODING\CRUD_WinForm\CRUD_WinForm\obj\Debug\CRUD_WinForm.csproj.AssemblyReference.cache
+E:\CODING\CRUD_WinForm\CRUD_WinForm\obj\Debug\CRUD_WinForm.csproj.SuggestedBindingRedirects.cache
+E:\CODING\CRUD_WinForm\CRUD_WinForm\obj\Debug\CRUD_WinForm.Form1.resources
+E:\CODING\CRUD_WinForm\CRUD_WinForm\obj\Debug\CRUD_WinForm.Properties.Resources.resources
+E:\CODING\CRUD_WinForm\CRUD_WinForm\obj\Debug\CRUD_WinForm.csproj.GenerateResource.cache
+E:\CODING\CRUD_WinForm\CRUD_WinForm\obj\Debug\CRUD_WinForm.csproj.CoreCompileInputs.cache
+E:\CODING\CRUD_WinForm\CRUD_WinForm\obj\Debug\CRUD_WinForm.exe
+E:\CODING\CRUD_WinForm\CRUD_WinForm\obj\Debug\CRUD_WinForm.pdb
